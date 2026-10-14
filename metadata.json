@@ -1,0 +1,6 @@
+{
+  "name": "MedPassport – Hộ chiếu sức khỏe tự chủ",
+  "description": "Nền tảng quản lý hồ sơ y tế tự chủ (SSI) sử dụng Web Crypto API, DID, Verifiable Credentials, AES-GCM, RSA-OAEP và mô phỏng Blockchain Ledger.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
